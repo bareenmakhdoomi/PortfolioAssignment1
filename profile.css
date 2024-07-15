@@ -91,7 +91,7 @@ a {
 .lpanel{
     inline-size: 25%;/* Equal size for both panels */
     background-color: #151d2e;
-    font-size: 0.6em;
+    font-size: 0.4em;
     color: #968e8d;
     box-sizing: border-box;
     overflow-y: auto;
